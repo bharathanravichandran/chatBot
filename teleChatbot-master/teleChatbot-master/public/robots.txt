@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /sitemap.xml
+
+
+Sitemap: https://chatbot.televein.in/sitemap.xml
